@@ -154,7 +154,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "sqlctx-extension"
+name = "sqlctx_extension"
 version = "0.1.0"
 dependencies = [
  "zed_extension_api",

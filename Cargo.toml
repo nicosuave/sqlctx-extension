@@ -1,11 +1,10 @@
 [package]
-name = "sqlctx-extension"
+name = "sqlctx_extension"
 version = "0.1.0"
 publish = false
 edition = "2021"
 
 [lib]
-path = "src/main.rs"
 crate-type = ["cdylib"]
 
 [dependencies]
