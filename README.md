@@ -10,4 +10,4 @@ Please see the [sqlctx](https://github.com/nicosuave/sqlctx) repo for more infor
 
 After installing the `sqlctx` extension from within Zed, you will have the additional slash command available:
 
-- `/sqlctx` - include pre-generated `sqlctx` for a given table name in Zed AI
+- `/sqlctx` - include pre-generated `sqlctx` for a given table name
