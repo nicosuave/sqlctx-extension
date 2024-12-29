@@ -1,6 +1,6 @@
 # sqlctx-extension
 
-Enclosed is a [Zed](https://zed.dev/) extension for [sqlctx](https://github.com/nicosuave/sqlctx). It makes it effortless to draw SQL databases into context in Zed editor's AI panel.
+Enclosed is a [Zed](https://zed.dev/) extension for [sqlctx](https://github.com/nicosuave/sqlctx). It makes it effortless to draw SQL database table definitions and sample data into context in Zed editor's AI panel.
 
 ## Usage
 
@@ -10,4 +10,4 @@ Please see the [sqlctx](https://github.com/nicosuave/sqlctx) repo for more infor
 
 After installing the `sqlctx` extension from within Zed, you will have the additional slash command available:
 
-- `/sqlctx` - autocompletes table names based on pre-generated `sqlctx`
+- `/sqlctx` - include pre-generated `sqlctx` for a given table name in Zed AI
