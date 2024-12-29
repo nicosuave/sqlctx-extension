@@ -4,7 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Nico Ritschel <ritschel@gmail.com>"]
 description = "Provides context from the attached SQL databases to Zed AI"
-# repository = "https://github.com/nicosuave/sqlctx-extension"
+repository = "https://github.com/nicosuave/sqlctx-extension"
 
 [slash_commands.sqlctx]
 description = "Provides context from the attached SQL databases. Provides table context one at a time"
